@@ -37,7 +37,6 @@ h1, h2, h3, h4, h5, h6 {
 header h1 a {
  font-size: 2.8em;
  color: #ff7166;
- background-color: #ecebda;
 }
 
 header h1 a:hover {
@@ -45,3 +44,6 @@ header h1 a:hover {
  color: #2ec5ee;
 }
 
+main {
+  background-color: #ecebda;
+}
