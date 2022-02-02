@@ -7,10 +7,6 @@
 
 /* Everything below this is my own customizations */
 
-main {
-  background-color: #ecebda;
-}
-
 a {
  color: #433e5c;
 }
@@ -41,6 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 header h1 a {
  font-size: 2.8em;
  color: #ff7166;
+ background-color: #ecebda;
 }
 
 header h1 a:hover {
