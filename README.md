@@ -1,9 +1,7 @@
-## Dillon Mahmoudi
-The deployed front-end of this repository is accessible at [dillonma.github.io](https://dillonma.github.io/)
+## Simon Winter
+The deployed front-end of this repository is accessible at [WinSimon.github.io](https://winsimon.github.io/)
 
-My website is [dillonm.io](https://dillonm.io)
-
-**This is an instructional/demonstration website for GES 486/687 Advanced GIS.** 
+**this is just a test**
 
 This setup is based on instructions by [Ivanna Kacewica](https://blog.usejournal.com/@evanca) on how to [Set Up Your Portfolio Website in Less Than 10 Minutes with Github Pages](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd). The base minimal theme has [excellent documentation](https://github.com/pages-themes/minimal) for customizing.
 
