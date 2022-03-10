@@ -15,10 +15,12 @@ For this project, I studied the number of Florida residents who work from home, 
 [<img src="foreign_proj/foreign_cluster.png?raw=true"/>](/foreign_proj/index)
 
 ---
-### [Project 3 Title](/project_probation/index)
-This is a short sentence about that particular project.
-[<img src="project_probation/LOI_Walking_Isos.png?raw=true"/>](/project_probation/index)
-
+### [Miami Home Value Predictors](/project_miami_hv/index)
+I analyzed home values in Miami-Dade County, FL and studied the predictors that correlate to high home value. Lastly, I made maps and scatterplots of which neighborhoods have the most similar demographics.
+[<img src="project_miami_hv/miami_hv.png?raw=true"/>](/project_miami_hv/index)
+[<img src="project_miami_hv/hv_predictor.png?raw=true"/>](/project_miami_hv/index)
+[<img src="project_miami_hv/miami_cluster.png?raw=true"/>](/project_miami_hv/index)
+[<img src="project_miami_hv/cluster_plot.png?raw=true"/>](/project_miami_hv/index)
 ---
 
 ### Category Name 2
