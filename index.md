@@ -4,7 +4,7 @@
 
 ---
 ### [Florida Population project](/fl_pop/index)
-For this project, I studied the number of Florida residents who work from home, by county. I used data from 2019, so this reflects numbers from before the COVID pandemic. As you can tell, Miami-Dade County has the largest number of people who work remotely. I then created a population pyramid of Miami-Dade County, in order to see if the population is young, or if it is aging, and if that might have an effect on the number of people who work from home.
+ For this project, I studied the number of Florida residents who work from home, by county. I used data from 2019, so this reflects numbers from before the COVID pandemic. As you can tell, Miami-Dade County has the largest number of people who work remotely. I then created a population pyramid of Miami-Dade County, in order to see if the population is young, or if it is aging, and if that might have an effect on the number of people who work from home.
 [<img src="/fl_pop/wfh_fl.png?raw=true"/>](/fl_pop/index)
 [<img src="/fl_pop/pop_pyr_miami.png?raw=true"/>](/fl_pop/index)
 
@@ -16,7 +16,8 @@ For this project, I studied the number of Florida residents who work from home, 
 
 ---
 ### [Miami Home Value Predictors](/project_miami_hv/index)
-I analyzed home values in Miami-Dade County, FL and studied the predictors that correlate to high home value. Lastly, I made maps and scatterplots of which neighborhoods have the most similar demographics.
+ I analyzed home values in Miami-Dade County, FL and studied the predictors that correlate to high home value. Lastly, I made maps and scatterplots of which neighborhoods have the most similar demographics.
+ 
 [<img src="project_miami_hv/miami_hv.png?raw=true"/>](/project_miami_hv/index)
 [<img src="project_miami_hv/hv_predictor.png?raw=true"/>](/project_miami_hv/index)
 [<img src="project_miami_hv/miami_cluster.png?raw=true"/>](/project_miami_hv/index)
