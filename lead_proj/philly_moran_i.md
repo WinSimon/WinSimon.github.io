@@ -6,10 +6,10 @@ output: html_document
 ---
 
 # determine housing lead risk in philadelphia 
-##using methodology described in Jacobs et al 2002, doi: 10.1289/ehp.021100599
+## using methodology described in Jacobs et al 2002, doi: 10.1289/ehp.021100599
 
 
-##setup
+## setup
 
 ```{r setup, warning=FALSE, results='hide'}
 library(tidycensus)
