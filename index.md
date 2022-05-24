@@ -3,10 +3,10 @@
 ## Portfolio
 
 ---
-### [Lead prediction model testing](/lead_proj/index)
+### [Lead prediction model testing](/lead_proj/philly_moran_i.md)
  For this project, I replicated a model predicting lead risk across the United States using census data. I then compared the model to actual maps of Lead Blood Level in Philadelphia and Baltimore city, in order to determine the accuracy of the model's results. I also ran a Moran's I test on the model's output in Philadelphia to confirm how geographically clustered lead risk is in the city, according to the model.
- [<img src="/images/USA_map.png?raw=true"/>](/lead_proj/index)
- [<img src="/images/philly_model_rast.png?raw=true"/>](/lead_proj/index)
+ [<img src="/images/USA_map.png?raw=true"/>](/lead_proj/philly_moran_i.md)
+ [<img src="/images/philly_model_rast.png?raw=true"/>](/lead_proj/philly_moran_i.md)
 ---
 ### [Florida Population project](/fl_pop/index)
  For this project, I studied the number of Florida residents who work from home, by county. I used data from 2019, so this reflects numbers from before the COVID pandemic. As you can tell, Miami-Dade County has the largest number of people who work remotely. I then created a population pyramid of Miami-Dade County, in order to see if the population is young, or if it is aging, and if that might have an effect on the number of people who work from home.
